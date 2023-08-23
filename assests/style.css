@@ -336,6 +336,7 @@ h3 {
 }
 
 .home-3 .row__right img {
+  width: 670px;
   padding: 20px 0 0 50px;
   -webkit-animation: animate-3 15s linear 0s infinite;
   animation: animate-3 15s linear 0s infinite;
